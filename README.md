@@ -4,8 +4,8 @@
 This Project that requires to mint own tokens to represent the title to the properties. Before minting the token, the owner needs to verify she/she owns the property. A zk-SNARKs (zoKrates) mechanism will be used to create a verification system which can prove the ownership of title to the property without revealing that specific information on the property.
 Once the token has been verified it will be placed on a blockchain market place (OpenSea) for others to purchase.
 
-Although is is optional, a UI has been provided in order to help viewing and minting tokens (with or without approved solution)
-The optional front-end of the application runs on the client's machine, powered by a lite-server. Using web3/metamask , it communicates with the deployed smart contract from Rinkeby. 
+A UI has been provided in order to help viewing and minting tokens (with or without approved solution)
+The front-end of the application runs on the client's machine, powered by a lite-server. Using web3/metamask , it communicates with the deployed smart contract from Rinkeby. 
 
 ## Contract addresses on rinkeby test network and ABI
 #### 1. Verifier 
